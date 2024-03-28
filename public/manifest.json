@@ -1,6 +1,6 @@
 {
-  "short_name": "Word",
   "name": "Word Master",
+  "short_name": "Word",
   "icons": [
     {
       "src": "favicon.ico",
